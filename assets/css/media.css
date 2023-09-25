@@ -1,0 +1,39 @@
+@media (min-width: 0px) and (max-width: 575px){
+    
+    .navbar .navbar-nav .nav-link:hover::before{
+        border: transparent;
+        
+    }
+        /* work-section start*/
+        .work-counter-section .work-counter-content .work-counter-icon{
+            font-size: 30px;
+
+        }
+        .work-counter-section .work-counter-content h3{
+            font-size: 30px;
+
+        }
+        .work-counter-section .work-counter-content h5{
+            font-size: 15px;
+
+        }
+        /* work-section start*/
+            
+    
+}
+@media (min-width: 576px) and (max-width: 766px){
+    
+    .navbar .navbar-nav .nav-link:hover::before{
+        border: transparent;
+       
+    }
+    
+        
+
+}
+@media (min-width: 767px) and (max-width: 991px){
+   
+    .navbar .navbar-nav .nav-link:hover::before{
+        border: transparent;
+    }
+}
